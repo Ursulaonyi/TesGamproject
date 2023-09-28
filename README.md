@@ -1,2 +1,2 @@
 # TesGamproject
-Analysisng revenue of Tesla and GameSpot
+#Analysisng revenue of Tesla and GameSpot
